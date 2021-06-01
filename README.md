@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @veresb
+- 👀 I’m now interested in C#, HTML/CSS and PHP
+- 🌱 I got my certificate on a 2 year course
+- You can contact me on this email: veresb2000@gmail.com
